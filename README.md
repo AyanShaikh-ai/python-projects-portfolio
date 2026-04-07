@@ -10,5 +10,6 @@ A collection of Python projects demonstrating skills across multiple domains inc
 
 ### 🤖 Automation / Systems
 - Coffee Machine Simulator
+- OOP Coffee Machine System
 
 (More coming soon...)
