@@ -6,5 +6,6 @@ A collection of Python projects demonstrating skills across multiple domains inc
 
 ### 🎮 Games
 - Hangman Game
+- Blackjack Game
 
 (More coming soon...)
