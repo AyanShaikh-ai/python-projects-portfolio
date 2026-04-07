@@ -8,4 +8,7 @@ A collection of Python projects demonstrating skills across multiple domains inc
 - Hangman Game
 - Blackjack Game
 
+### 🤖 Automation / Systems
+- Coffee Machine Simulator
+
 (More coming soon...)
