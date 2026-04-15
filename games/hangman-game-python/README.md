@@ -14,7 +14,8 @@ The program randomly selects a word and allows the user to guess letters while t
 * Tracks correct and incorrect guesses
 * Reveals correctly guessed letters in their positions
 * Ends when the player either guesses the word or runs out of lives
-
+* Tracks previously guessed letters
+* Improved user experience with timed output delays
 ---
 
 ## 🧠 What This Project Demonstrates
@@ -63,7 +64,8 @@ hangman-game-python/
 ├── hangman_art.py       # ASCII art and game visuals
 └── README.md
 ```
-
+## 🔄 Refactor Update
+This project has been fully rewritten with improved structure, cleaner logic, and enhanced user experience including better state tracking and output formatting.
 ---
 
 ## 🎯 Key Takeaway
