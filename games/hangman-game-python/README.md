@@ -70,4 +70,4 @@ This project has been fully rewritten with improved structure, cleaner logic, an
 
 ## 🎯 Key Takeaway
 
-This project focuses on building a functional command-line game using fundamental Python concepts such as loops, conditionals, and state tracking.
+* This project focuses on building a functional command-line game using fundamental Python concepts such as loops, conditionals, and state tracking.
