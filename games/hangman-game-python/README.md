@@ -65,7 +65,7 @@ hangman-game-python/
 └── README.md
 ```
 ## 🔄 Refactor Update
-This project has been fully rewritten with improved structure, cleaner logic, and enhanced user experience including better state tracking and output formatting.
+* This project has been fully rewritten with improved structure, cleaner logic, and enhanced user experience including better state tracking and output formatting.
 ---
 
 ## 🎯 Key Takeaway
